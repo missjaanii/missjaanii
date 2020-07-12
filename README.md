@@ -1,7 +1,6 @@
 
 <p align="center">
-<br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>  <a href="https://linkedin.com/in/missjaanii"><img alt="LinkedIn Connect" src="https://img.shields.io/endpoint?color=Blue&label=LinkedIn&logo=missjaanii&logoColor=Black&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmissjaanii%2F
-"></a><br/><br/>
+<br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>  <a href="https://linkedin.com/in/missjaanii"><img alt="LinkedIn Connect" src="https://img.shields.io/endpoint?color=Blue&label=LinkedIn&logo=missjaanii&logoColor=Black&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmissjaanii%2F"></a><br/><br/>
 
 <p>
 
