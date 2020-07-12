@@ -1,4 +1,4 @@
-[![Debjani Saha header](https://raw.githubusercontent.com/missjaanii/missjaanii/master/cover.png)](https://missjaanii.github.io/)
+
 <p align="center">
 <br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>  <a href="https://twitter.com/missjaanii"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/missjaanii?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@missjaanii"></a><br/><br/>
 
