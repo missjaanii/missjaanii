@@ -3,7 +3,7 @@
 <p align="center">
 <br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a> 
 <br/><a href="https://www.linkedin.com/in/missjaanii"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<br/><br/>
+<br/>
 
 
  👋 I'm in my final year of Bachelors in Computer Applications. I'm a machine learning and deep learning enthusiast and I'm working my way of storytelling through Data. I've got a lot to learn but I can wisely use my knowledge of Data Science and Machine Learning and can also manage a team.⚡
