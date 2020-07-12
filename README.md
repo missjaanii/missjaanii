@@ -5,8 +5,6 @@
 <br/><a href="https://www.linkedin.com/in/missjaanii"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <br/><br/>
 
-<p>
-
 
  👋 I'm in my final year of Bachelors in Computer Applications. I'm a machine learning and deep learning enthusiast and I'm working my way of storytelling through Data. I've got a lot to learn but I can wisely use my knowledge of Data Science and Machine Learning and can also manage a team.⚡
 
