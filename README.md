@@ -6,7 +6,7 @@
 <br/>
 
 
- 👋 Keeping Tech as a hobby. Striving to be a Banker.⚡
+ 👋 Love to organise data and solve puzzles.⚡
 
 - 🔭 I’m currently working on bridging the gap between Experimental Physics and Advanced Machine Learning
 - 🌱 I’m currently learning about advanced neural networks
